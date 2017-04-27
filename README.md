@@ -1,5 +1,7 @@
 # EsferCal  
 EsferCal is a sleek, easily to use and customize,simply drag and drop files to your project and use.  
+https://camo.githubusercontent.com/assets/4947148/25471145/4fbe10b2-2b43-11e7-8513-fc8eee605692.png
+
 # How to integrate EsferCal.  
 Drag and drop EsmitView.h EsmitView.m, EsmitHeaderView.h and EsmitHeaderView.m file into your project.  
 #import "EsmitView.h" in your view controller.  
